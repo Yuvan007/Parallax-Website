@@ -1,1 +1,1 @@
-# Parallax-Website
+ Parallax-Website using HTML, CSS, and JS
